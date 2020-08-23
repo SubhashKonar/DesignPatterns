@@ -8,7 +8,7 @@ import java.sql.SQLException;
  * 
  * @author konar
  *	Singleton Pattern.
- *	Singleton Pattern says that just"define a class that has only one instance 
+ *	Singleton Pattern says that just "define a class that has only one instance 
  *  and provides a global point of access to it".
  *  
  *  Lazy initialization  instance is create once the getInstance object is called.
